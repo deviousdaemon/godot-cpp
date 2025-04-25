@@ -202,3 +202,4 @@ cmake-build*/
 
 # CMake related
 CMakeUserPresets.json
+Compile.bat
